@@ -1,0 +1,91 @@
+## Bilan des compétences - SAE S1.03 - Installation d'un poste pour le développement
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Expérimenter les missions d’installation du poste de
+travail.
+- Découvrir et se familiariser avec un nouveau système d’exploitation ainsi
+que ses outils.
+- Rendre compte d’une FAQ des problèmes/solutions apportées.
+- Savoir raisonner sur la configuration/installation du poste de travail lors
+d’une soutenance.
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- S’approprier le besoin du client | Acquérir les informations nécessaires
+par consultation des documents.
+- Choisir la machine virtuelle | Se référer à une VM gratuite et connue.
+- Installer le système d’exploitation et ses outils | Consulter de la
+documentation via Internet.
+- Configurer les paramétrages pérennes/script | Se référer aux cours
+d’OS-Systèmes.
+- Rédiger la FAQ récapitulative | Utiliser Google Docs (Git).
+
+==== Objectifs et résultats :
+
+- ✓ Installer / configurer / tester (les scripts) de notre poste de travail.
+- ✗ Gérer l’accessibilité pour les groupes d’utilisateurs.
+- ✓ Expliquer nos choix / Montrer la conformité de notre machine
+virtuelle lors d’une soutenance.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Communiquer, être solidaire et productif.
+- Utilisation de Discord / web pour échanger / se documenter.
+- Utilisation de Google Docs (Git) pour la rédaction de la FAQ.
+- Utilisation du terminal de la distribution pour manipuler des commandes.
+- Utilisation du système d’exploitation sélectionné (Ubuntu).
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- _Temps prévisionnel : 15 heures | Temps réel : 15 heures._
+
+==== Répartition du travail :
+
+- Interpréter le besoin du client | 3 membres.
+- Installation / configuration du système d’exploitation | 1 membre.
+- Disposer des applications demandées | 2 membres.
+- Configurer les paramétrages pérennes | 2 membres.
+- Implémenter le script de validation | 1 membre.
+- Produire une FAQ préconisée | 3 membres.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Place de “leader” occupée durant le projet.
+- Installer / organiser la machine virtuelle / système d’exploitation.
+- Établir l’installation et la configuration des applications ainsi que des
+paramétrages pérennes.
+- Développer les scripts de conformité pour la soutenance.
+- Rédiger en partie la FAQ.
+
+==== Rapport entre les ressources et compétences :
+
+- Déceler la contrainte du client : R1.08-ProjOrg.
+- Savoir répartir les missions des membres du projet : R1.08-ProjOrg.
+- Expérimenter les commandes pour l’installation du poste de travail :
+R1.04-Système.
+- Configurer la machine virtuelle : R1.04-Système | R1.02-DevWeb.
+- Rédiger la FAQ préconisée : R1.02-DevWeb.
+- Savoir s’exprimer clairement durant la soutenance : R.1.11-Com |
+R1.12-PPP.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Communication et performance au sein du groupe très approuvable.
+- Amélioration en termes d’assurance à l’oral mais également en
+productivité, omniprésente dans l’ensemble des différentes parties.
+- Progression de la connaissance au sein de la compétence OS-Systèmes.
+
+===== Difficultés :
+
+- Mettre en place l’option de dossier partagé afin de procéder à des
+transactions de fichiers entre la machine hôte et virtuelle.
+- Implémenter le script de validation, peu explicatif en sa réalisation.
